@@ -1,8 +1,6 @@
 # Rock-Paper-Scissor [![Template Project](https://img.shields.io/badge/Web-App-red)](http://www.gnu.org/licenses/agpl-3.0) [![Template Project](https://img.shields.io/badge/Technologies%20-HTML%2FCSS%2FJS-brightgreen)](http://www.gnu.org/licenses/agpl-3.0)
 
-This is basically a drum kit non responsive ui when you click on a button or click on a key on a keyboard an audio will play with an effect hope you like my project
-
-***NOTE that If you press a same key multiple times the audio will play with delay that is beacuse the audio clips i used are have 1s to 2s of emty space***
+This is basicaly a Rock, paper, scissor game given as an assignment from the FSJS iNeuron bootcamp. I have just added interactivity and UI and even the game logic. Hope you like my Project. In this project had got my hands messy with lot of css properties.
 
 ## 🛠 Technologies Used
   - HTML - Hyper Text Markup Language
